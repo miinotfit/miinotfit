@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miinotfit
 - 👀 I’m interested in becoming a computational chemist with a focus on drug design that involves molecular docking simulations, and am starting to learn programming on the side in my free time.
-- 🌱 I’m currently learning Python and JavaScript(and Solidity)
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me is through my email: "ngo.kennethq@gmail.com"
 
 <!---
